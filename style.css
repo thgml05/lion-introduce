@@ -1,0 +1,199 @@
+body {
+  margin: 0px;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  margin: 0px;
+}
+
+p {
+  line-height: 160%;
+}
+
+hr {
+  text-align: center;
+  width: 700px;
+}
+
+.lion {
+  background-color: #041228;
+  color: white;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+
+#section1 {
+  background-color: #f5f5f5;
+  padding-bottom: 20px;
+}
+
+.aboutme {
+  text-align: center;
+  padding: 20px;
+}
+
+#profile {
+  width: 200px;
+  border-radius: 50%;
+  display: block;
+  margin: 0px auto;
+}
+
+.detail1 {
+  text-align: center;
+}
+
+#section2 {
+  background-color: #e4e9e9;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.hobby {
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+
+.exercise {
+  display: flex;
+  justify-content: center;
+}
+
+.runningimg {
+  width: 500px;
+  height: 300px;
+  border-radius: 50%;
+  padding: 20px;
+  margin-left: 200px;
+}
+
+.exercise-div {
+  flex-basis: 50%;
+  margin-left: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.exercise-title {
+  font-size: 18.72px;
+}
+
+.exercise-comment {
+  font-size: 16px;
+}
+
+.music {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+}
+
+.musicplayer {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  padding: 20px;
+  margin-right: 250px;
+}
+
+.music-div {
+  flex-basis: 50%;
+  margin-left: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.music-title {
+  font-size: 18.72px;
+}
+
+.music-comment {
+  font-size: 16px;
+}
+
+.write {
+  display: flex;
+  justify-content: center;
+}
+
+.memo {
+  width: 500px;
+  height: 300px;
+  border-radius: 50%;
+  padding: 20px;
+  margin-left: 200px;
+}
+
+.write-div {
+  flex-basis: 50%;
+  margin-left: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.write-title {
+  font-size: 18.72px;
+}
+
+.write-comment {
+  font-size: 16px;
+}
+
+.service {
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+
+#section3 {
+  background-color: #d0d3d4;
+  padding: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.service-comment {
+  display: flex;
+}
+
+.s1 {
+  border: 3px solid #242c3d;
+  flex-basis: 50%;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0px 0px 20px #242c3d;
+  margin-right: 85px;
+}
+
+.skin-title {
+  text-align: center;
+}
+
+.skin-comment {
+  font-size: 13px;
+}
+
+.s2 {
+  border: 3px solid #242c3d;
+  flex-basis: 50%;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0px 0px 20px #242c3d;
+  margin-left: 85px;
+}
+
+.mall-title {
+  text-align: center;
+}
+
+.mall-comment {
+  font-size: 13px;
+}
